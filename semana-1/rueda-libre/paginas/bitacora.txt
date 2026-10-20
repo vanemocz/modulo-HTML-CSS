@@ -1,0 +1,16 @@
+Reto 1
+
+ URL completa: http://127.0.0.1:5500/semana-1/rueda-libre/index.html
+ El protocolo: http://
+ El host: 127.0.0.1:5500
+ El puerto: 5500
+ la ruta: /semana-1/rueda-libre/index.html
+ el método de la petición: GET
+ el código de estado: 304
+
+El codigo que registra el servidor despues de cambiar la direccion que no existe es 404
+
+HTML: la estructura de la pagina
+CSS: identificar margenes en los textos y dimensiones en la pagina
+JavaScript: dandole interactividad a la pagina, cuando se recarga, la logica que hay detras de la pagina con sus integraciones
+
