@@ -14,3 +14,11 @@ HTML: la estructura de la pagina
 CSS: identificar margenes en los textos y dimensiones en la pagina
 JavaScript: dandole interactividad a la pagina, cuando se recarga, la logica que hay detras de la pagina con sus integraciones
 
+
+Mini reto 4
+
+Rutas:
+
+file:///home/cohorte8/modulo-HTML-CSS/semana-1/rueda-libre/index.html esta ruta me lleva a la pagina inicial del proyecto
+file:///home/cohorte8/modulo-HTML-CSS/semana-1/rueda-libre/paginas/tarifas.html esta ruta me lleva a la pagina de tarifas
+file:///home/cohorte8/modulo-HTML-CSS/semana-1/rueda-libre/paginas/reservas.html esta ruta me lleva a la pagina de reservas
